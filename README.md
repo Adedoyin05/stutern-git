@@ -1,3 +1,3 @@
 # stutern-git
 
-# THIS IS A PROJECT
+# THIS IS A PROJECT BY ADEDOYIN
