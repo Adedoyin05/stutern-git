@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:' poppins';
+    background-color:rgb(181, 196, 223) ;
+    height: 100vh;
+    overflow: hidden;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:400px ;
+    background: white;
+    border-radius: 15px;
+}
+.center h1{
+    text-align: center;
+    padding: 0 0 10px 0;
+}
+.center form {
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+#email_input{
+    position: relative;
+    margin: 20px 15px;
+    width: 90%;
+    height: 40px;
+    padding: 5px 5px;
+    background: rgb(231, 229, 229);
+
+}
+#password_input{
+    position: relative;
+    margin:20px 15px ;
+    width:300px ;
+    height: 40px;
+    padding:5px 5px ;
+    background: rgb(231, 229, 229);
+}
+input[type="submit"]{
+    width: 300px;
+    height: 40px;
+    border:1px solid ;
+    background:rgb(181, 196, 223) ;
+    margin: 20px 50px;
+    border-radius: 25px;
+    font-size: 18px;
+    color: antiquewhite;
+}
+#home_page{
+    margin: 20px 0;
+    text-align: center;
+    font-size: 16px;
+}
+#home_page a{
+    color:rgb(95, 93, 93) ;
+    text-decoration: none;
+
+}
