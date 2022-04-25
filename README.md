@@ -1,3 +1,0 @@
-# stutern-git
-
-# THIS IS A PROJECT BY ADEDOYIN
